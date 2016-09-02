@@ -1,3 +1,4 @@
+
 $(function() {
 
     $('.delete').click(function(e) {
@@ -5,6 +6,14 @@ $(function() {
         if (c == false) return false;
     });
 
-    $('#table').dataTable();
+    $('#table').dataTable({
+        scrollY:        '50vh',
+        scrollCollapse: true,
+        paging:         false
+    });
+
+    $('[data-toggle="tooltip"]').tooltip();
+
+    $('.t-sol').css('height',$('.t-sag').height())
 
 });

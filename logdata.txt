@@ -1,0 +1,7 @@
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-01 08:54:40 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-01 09:00:58 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 2 - Administrator Administrator - 2016-09-01 09:34:18 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0 - 2 - Administrator Administrator - 2016-09-01 19:01:35 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0 - 1 - Yakup TAŞLIBEYAZ - 2016-09-02 07:34:17 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-02 10:37:41 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-02 11:01:33 - ::1 Sisteme Giriş Yaptı.
