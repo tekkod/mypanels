@@ -36,8 +36,8 @@
                           <li><a href="<?=URL?>announcement" data-toggle="tooltip" data-placement="bottom" title="Duyurular"><i class="fa fa-bullhorn"></i></a></li>
                           <li><a href="<?=URL?>comments" data-toggle="tooltip" data-placement="bottom" title="Yorumlar"><i class="fa fa-comments"></i></a></li>
                           <li><a href="<?=URL?>picture" data-toggle="tooltip" data-placement="bottom" title="Media"><i class="fa fa-medium"></i></a></li>
-                          <li><a href="<?=URL?>pages" data-toggle="tooltip" data-placement="bottom" title="Sayfa"><i class="fa fa-file-o"></i></a></li>
-                          <li><a href="<?=URL?>visitorbook" data-toggle="tooltip" data-placement="bottom" title="Ziyaretçi Defteri"><i class="glyphicon glyphicon-book"></i></a></li>
+                          <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Sayfa"><i class="fa fa-file-o"></i></a></li>
+                          <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Ziyaretçi Defteri"><i class="glyphicon glyphicon-book"></i></a></li>
                           <li><a href="<?=URL?>activities" data-toggle="tooltip" data-placement="bottom" title="Etkinlikler"><i class="fa fa-briefcase"></i></a></li>
                           <li><a href="<?=URL?>persons" data-toggle="tooltip" data-placement="bottom" title="Kişiler"><i class="fa fa-users"></i></a></li>
                           <li><a href="<?=URL?>career" data-toggle="tooltip" data-placement="bottom" title="İnsan Kaynakları"><i class="glyphicon glyphicon-tasks"></i></a></li>
@@ -45,16 +45,12 @@
                           <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="İşlemler"><i class="fa fa-terminal"></i></a></li>
                           <li><a href="<?=URL?>social" data-toggle="tooltip" data-placement="bottom" title="Sosyal Medya"><i class="fa fa-share"></i></a></li>
                           <li><a href="<?=URL?>mail" data-toggle="tooltip" data-placement="bottom" title="Mail Kutusu"><i class="fa fa-envelope-o"></i></a></li>
-                          <li><a href="<?=URL?>users" data-toggle="tooltip" data-placement="bottom" title="Kullanıcılar"><i class="fa fa-user"></i></a></li>
-                          <li><a href="<?=URL?>permission" data-toggle="tooltip" data-placement="bottom" title="Yetklendirme"><i class="glyphicon glyphicon-object-align-horizontal"></i></a></li>
                       </ul>
                       <ul class="nav navbar-nav navbar-right t-nav-navbar">
-                          <li><a href="#"><span>75 % </span><i class="fa fa-battery-three-quarters"></i></a></li>
-                          <li><a href="#"><i class="fa fa-bluetooth"></i></a></li>
                           <li class="dropdown">
                               <a href="#" data-toggle="dropdown"><i class="fa fa-search"></i></a>
                               <div class="dropdown-menu">
-                                  <form id="formSearch">
+                                  <form id="formSearch" action="<?=URL?>search" method="get">
                                       <input id="search-bar" type="text" required class="form-control" name="q" />
                                       <label for="search-bar" id="search-bar-label">
 									    <span id="search-placeholder">
@@ -68,8 +64,8 @@
                                   </form>
                               </div>
                           </li>
-                          <li><a href="#"><i class="fa fa-wifi"></i></a></li>
-                          <li><a href="#"><i class="fa fa-list"></i></a></li>
+                          <li><a href="<?=URL?>login/logout"><i class="fa fa-times"></i></a></li>
+                          <li><a href="#"><i class="fa fa-user-md"></i></a></li>
                       </ul>
                   </div><!-- /.navbar-collapse -->
               </div>

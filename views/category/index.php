@@ -8,8 +8,8 @@
   <div class="row">
     <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 t-rgba-3 t-sol">
       <ul class="t-navbar-link">
-        <li><a href="category">Kategori Ekle</a></li>
-        <li><a href="subcategory">Alt Kategori Ekle</a></li>
+        <li><a href="<?= URL ?>category">Kategori Ekle</a></li>
+        <li><a href="<?= URL ?>subcategory">Alt Kategori Ekle</a></li>
       </ul>
     </div>
     <div class="col-lg-10 col-md-10 col-sm-9 col-xs-9 t-rgba-f t-sag">
@@ -39,10 +39,9 @@
             <label class="col lg-2 col-md-2 col-sm-3 col-xs-3" for="button1id">İşlemler</label>
             <div class="col-lg-10 col-md-10 col-sm-9 col-xs-9">
                 <button id="btnSave" class="btn btn-success"><span class="fa fa-plus"></span> Kaydet</button>
-                <a href="<?php echo URL.'category/getlist'; ?> " class="btn btn-danger"><span class="glyphicon glyphicon-ban-circle"></span> Vazgeç</a>
+                <a href="<?= URL ?>category/getlist " class="btn btn-danger"><span class="glyphicon glyphicon-ban-circle"></span> Vazgeç</a>
             </div>
           </div>
-
         </fieldset>
       </form>
     </div>

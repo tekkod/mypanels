@@ -5,3 +5,33 @@ Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0 - 2 - A
 Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0 - 1 - Yakup TAŞLIBEYAZ - 2016-09-02 07:34:17 - ::1 Sisteme Giriş Yaptı.
 Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-02 10:37:41 - ::1 Sisteme Giriş Yaptı.
 Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-02 11:01:33 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36 OPR/39.0.2256.48 - 1 - Yakup TAŞLIBEYAZ - 2016-09-03 09:11:17 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-03 15:57:39 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 11:47:32 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 11:55:57 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 16:17:43 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 18:40:25 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 20:01:59 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 20:02:00 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 20:02:01 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 20:02:01 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 20:02:02 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 20:02:03 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 20:02:03 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 20:02:04 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 20:02:05 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 20:10:54 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 20:13:11 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 21:38:12 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-04 21:38:16 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-05 16:49:23 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36 OPR/39.0.2256.48 - 1 - Yakup TAŞLIBEYAZ - 2016-09-05 17:04:57 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-05 18:34:51 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-05 20:46:27 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-06 09:07:49 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-06 13:14:20 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-07 07:36:28 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko - 1 - Yakup TAŞLIBEYAZ - 2016-09-07 19:11:42 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0 - 2 - Administrator Administrator - 2016-09-07 19:30:54 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.89 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-07 20:51:20 - ::1 Sisteme Giriş Yaptı.
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.89 Safari/537.36 - 1 - Yakup TAŞLIBEYAZ - 2016-09-07 22:36:18 - ::1 Sisteme Giriş Yaptı.

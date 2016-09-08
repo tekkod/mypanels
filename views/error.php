@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo URL; ?>public/css/bootstrap.min.css" />
+    <meta http-equiv="refresh" content="2;url=<?= URL ?>">
     <style>
         body{background: #e4b9b9}
         *{border-radius: 0px !important;border: 0px !important;font-family: 'Open Sans', sans-serif}

@@ -8,29 +8,28 @@
     <div class="row">
         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 t-rgba-3 t-sol">
             <ul class="t-navbar-link">
-                <li><a href="<?=URL?>category">Kategori Ekle</a></li>
-                <li><a href="<?=URL?>subcategory">Alt Kategori Ekle</a></li>
+                <li><a href="<?= URL ?>slider">Slider</a></li>
+                <li><a href="<?= URL ?>parallax">Parallax</a></li>
             </ul>
         </div>
         <div class="col-lg-10 col-md-10 col-sm-9 col-xs-9 t-rgba-f t-sag">
-            <form class="form-horizontal" method="post" action="<?= URL ?>category/editSave/<?php echo $this->category[0]['category_id']; ?>">
+            <form class="form-horizontal" method="post" enctype="multipart/form-data" action="<?= URL ?>slider/create">
                 <fieldset>
                     <!-- Form Name -->
                     <legend><?=$this->title ?></legend>
                     <!-- Text input-->
                     <div class="form-group">
-                        <label class="col lg-2 col-md-2 col-sm-3 col-xs-3" for="txtCategory">Kategori Adı</label>
+                        <label class="col lg-2 col-md-2 col-sm-3 col-xs-3" for="txtQuestionName">Slider Adı</label>
                         <div class="col-lg-10 col-md-10 col-sm-9 col-xs-9">
-                            <input id="txtCategory" value="<?= $this->category[0]['name']; ?>" name="txtCategory" type="text" placeholder="Kategori Adı" class="form-control input-md" required="">
+                            <input id="txtQuestionName" name="txtQuestionName" placeholder="Slider Adı" class="form-control input-md" type="text" required="">
                             <span class="help-block">Zorunlu Alan</span>
                         </div>
                     </div>
                     <!-- Text input-->
                     <div class="form-group">
-                        <label class="col lg-2 col-md-2 col-sm-3 col-xs-3">Kategori Durumu</label>
+                        <label class="col lg-2 col-md-2 col-sm-3 col-xs-3" for="txtQuestion">Slider</label>
                         <div class="col-lg-10 col-md-10 col-sm-9 col-xs-9">
-                            <label for="txtOnayRadios1"><input id="txtOnayRadios1" name="txtOnayRadios" type="radio" required <?php if ($this->category[0]['status']==1){ echo 'checked'; } ?> />Aktif </label>
-                            <label for="txtOnayRadios0"><input id="txtOnayRadios0" name="txtOnayRadios" type="radio" required <?php if ($this->category[0]['status']==0){ echo 'checked'; } ?>  />Pasif</label>
+                            <input id="txtQuestion" name="txtQuestion" class="form-control input-md" type="file" required="">
                             <span class="help-block">Zorunlu Alan</span>
                         </div>
                     </div>
@@ -38,8 +37,8 @@
                     <div class="form-group">
                         <label class="col lg-2 col-md-2 col-sm-3 col-xs-3" for="button1id">İşlemler</label>
                         <div class="col-lg-10 col-md-10 col-sm-9 col-xs-9">
-                            <button id="btnSave" class="btn btn-success"><span class="fa fa-pencil"></span> Güncelle</button>
-                            <a href="<?php echo URL.'category/getlist'; ?> " class="btn btn-danger"><span class="glyphicon glyphicon-ban-circle"></span> Vazgeç</a>
+                            <button id="btnSave" class="btn btn-success"><span class="fa fa-plus"></span> Kaydet</button>
+                            <a href="<?= URL ?>slider/getlist " class="btn btn-danger"><span class="glyphicon glyphicon-ban-circle"></span> Vazgeç</a>
                         </div>
                     </div>
                 </fieldset>
