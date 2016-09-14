@@ -216,3 +216,10 @@ form #close-btn > i {
     text-align: center;
     color: #7d7d7d;
 }
+.modal-content{border-radius: 0px}
+.nav-pills>li{float: none}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
+    background: #da4757;
+    color: #ffffff;
+    transition: all 300ms linear;
+}

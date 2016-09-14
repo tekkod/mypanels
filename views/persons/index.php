@@ -64,76 +64,11 @@
                         <label class="col lg-2 col-md-2 col-sm-3 col-xs-3">İşlemler</label>
                         <div class="col-lg-10 col-md-10 col-sm-9 col-xs-9">
                             <button id="btnSave" class="btn btn-success"><span class="fa fa-plus"></span> Kaydet</button>
-                            <a href="<?= URL ?>activities/getlist " class="btn btn-danger"><span class="glyphicon glyphicon-ban-circle"></span> Vazgeç</a>
+                            <a href="<?= URL ?>persons/getlist " class="btn btn-danger"><span class="glyphicon glyphicon-ban-circle"></span> Vazgeç</a>
                         </div>
                     </div>
                 </fieldset>
             </form>
         </div>
     </div>
-</div>
-
-
-
-
-
-
-
-
-
-<div class="container-fluid">
-  <form class="form-horizontal" method="post" action="<?php echo URL;?>persons/create">
-    <fieldset>
-      <!-- Text input-->
-      <div class="form-group">
-        <label class="col-md-2" for="txtFullname">Ad Soyad</label>
-        <div class="col-md-10">
-          <input id="txtFullname" name="txtFullname" type="text" placeholder="Ad Soyad" class="form-control input-md">
-        </div>
-      </div>
-      <!-- Text input-->
-      <div class="form-group">
-        <label class="col-md-2" for="txtCompany">Şirket</label>
-        <div class="col-md-10">
-          <input id="txtCompany" name="txtCompany" type="text" placeholder="Şirket" class="form-control input-md">
-        </div>
-      </div>
-      <!-- Text input-->
-      <div class="form-group">
-        <label class="col-md-2" for="txtEmail">E-Mail</label>
-        <div class="col-md-10">
-          <input id="txtEmail" name="txtEmail" type="text" placeholder="E-Mail" class="form-control input-md">
-        </div>
-      </div>
-      <!-- Text input-->
-      <div class="form-group">
-        <label class="col-md-2" for="txtPhone">Telefon</label>
-        <div class="col-md-10">
-          <input id="txtPhone" name="txtPhone" type="text" placeholder="Telefon" class="form-control input-md"  data-inputmask='"mask": "(999) 999-9999"' data-mask>
-        </div>
-      </div>
-      <!-- Text input-->
-      <div class="form-group">
-        <label class="col-md-2" for="txtAdress">Adres</label>
-        <div class="col-md-10">
-          <input id="txtAdress" name="txtAdress" type="text" placeholder="Adres" class="form-control input-md">
-        </div>
-      </div>
-      <!-- Text input-->
-      <div class="form-group">
-        <label class="col-md-2" for="txtOther">Diğer</label>
-        <div class="col-md-10">
-          <input id="txtOther" name="txtOther" type="text" placeholder="Diğer" class="form-control input-md">
-        </div>
-      </div>
-      <!-- Button -->
-      <div class="form-group">
-        <label class="col-md-2"></label>
-        <div class="col-md-10">
-          <button id="btnSave" class="btn btn-success">Kaydet</button>
-          <a href="<?php echo URL.'persons/getlist'; ?> " class="btn btn-danger">Vazgeç</a>
-        </div>
-      </div>
-    </fieldset>
-  </form>
 </div>

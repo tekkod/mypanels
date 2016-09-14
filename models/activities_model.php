@@ -22,7 +22,6 @@ class Activities_Model extends Model {
                 'userid'      => $_SESSION['userid']
             ));
         }
-
     }
     public function activitiesList() {
         return $this->db->select('SELECT *,c.name as categoryname FROM activities a LEFT JOIN category c on a.category = c.category_id WHERE c.status=1 and a.userid = :userid', 

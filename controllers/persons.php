@@ -44,8 +44,7 @@ class Persons extends Controller {
         if (empty($this->view->persons)) {
             header('location: ' . URL . 'persons/getlist');
         }
-        $this->view->title = 'Kişiler Düzenle';
-        $this->view->CategoryList = $this->model->CategoryList();
+        $this->view->title = 'Kişiler';
         $this->view->render('header');
         $this->view->render('persons/edit');
         $this->view->render('footer');
